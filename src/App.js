@@ -7,6 +7,9 @@ function App() {
     <div className="App">
         <Header/>
         <StaticGallery/>
+        <br/>
+        <footer>@Abraham L. Infante</footer>
+        <br/>
     </div>
   );
 }

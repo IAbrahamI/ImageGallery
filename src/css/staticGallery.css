@@ -2,6 +2,11 @@
     border-radius: 5px;
     background-color: white;
     opacity: 0.8;
+    margin-top: 49px;
     margin-left: 5%;
     margin-right: 5%;
+
+}
+bg{
+    background-color: #282c34;
 }

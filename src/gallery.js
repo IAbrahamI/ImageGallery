@@ -28,5 +28,10 @@ export const photos = [
         src:'https://images.unsplash.com/photo-1552820728-8b83bb6b773f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80',
         width: 5,
         height: 3
+    },
+    {
+        src:'https://images.unsplash.com/photo-1538481199705-c710c4e965fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1432&q=80',
+        width: 5,
+        height: 3
     }
 ];
